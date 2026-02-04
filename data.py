@@ -13,5 +13,4 @@ def discount(isMember, Age, isResident):
         print('No discount')
 
 
-
 discount(False, 18 , False)
