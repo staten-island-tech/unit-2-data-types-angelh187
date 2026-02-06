@@ -40,4 +40,7 @@ z = y[0]
 print(y)
 print(z) """
 
+""" sentence = input("input a sentence") """
+
 sentence = input("input a sentence")
+
