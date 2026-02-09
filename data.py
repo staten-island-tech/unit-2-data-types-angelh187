@@ -118,7 +118,6 @@ greatestCF(number1, number2)
 
 
 
-print("hi")
 
 
 
