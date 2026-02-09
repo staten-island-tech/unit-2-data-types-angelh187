@@ -114,10 +114,11 @@ def greatestCF(number1, number2):
 number1 = int(input("What is your first number"))
 number2 = int(input("What is your second number"))
 
-greatestCF(number1, number2)
+greatestCF(number1, number2)   
 
 
 
+print("hi")
 
 
 
